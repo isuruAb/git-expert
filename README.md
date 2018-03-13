@@ -5,3 +5,5 @@ branch commit
 master commit chanage from master git second change
 changes from master
 change to branch b1
+
+change to branch b2
